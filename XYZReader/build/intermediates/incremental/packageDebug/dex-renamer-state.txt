@@ -1,0 +1,7 @@
+#Thu Jun 01 18:59:07 IST 2017
+base.0=/Users/Velu/Projects/Android/Nanodegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_41d18ad9780b4edcff95f506aab93e387318261a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Velu/Projects/Android/Nanodegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b5076bc479dbc9f713ae6b2e293fa7781ab9ab66/classes.dex
+base.1=/Users/Velu/Projects/Android/Nanodegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b5076bc479dbc9f713ae6b2e293fa7781ab9ab66
+file.0=/Users/Velu/Projects/Android/Nanodegree/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_41d18ad9780b4edcff95f506aab93e387318261a/classes.dex
