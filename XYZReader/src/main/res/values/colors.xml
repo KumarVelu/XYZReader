@@ -26,5 +26,6 @@
     <color name="colorPrimary">#FF5722</color>
     <color name="colorPrimaryDark">#E64A19</color>
     <color name="colorAccent">#FF5722</color>
+    <color name="colorTealAccent">#009688</color>
 
 </resources>
