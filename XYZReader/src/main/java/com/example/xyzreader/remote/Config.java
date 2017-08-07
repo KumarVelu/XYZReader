@@ -9,7 +9,7 @@ public class Config {
     static {
         URL url = null;
         try {
-            url = new URL("https://www.dropbox.com/s/qx1zg3dmuu894i8/data.json?dl=0" );
+            url = new URL("https://go.udacity.com/xyz-reader-json" );
         } catch (MalformedURLException ignored) {
             // TODO: throw a real error
         }
